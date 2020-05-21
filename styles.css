@@ -1,0 +1,78 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+pre {
+    margin: 5px;
+    margin-inline: 15px;
+}
+
+.inf {
+    margin: 20px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.text {
+    width: 200px;
+    float: left;
+    height: 120px;
+    background-color: pink;
+    margin: 20px;
+    margin-top: 20px;
+}
+
+.infotext {
+    font-style: italic;
+    text-align: center;
+}
+
+.img1 {
+    float: left;
+    margin-top: -300px;
+    margin-left: 750px;
+}
+
+.text2 {
+    float: left;
+    margin-left: 600px;
+    margin-top: -350px;
+    background-color: pink;
+    width: 400px;
+    height: 150px;
+}
+
+.text3 {
+    width: 200px;
+    float: left;
+    height: 150px;
+    background-color: pink;
+    margin: 15px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin: 20px;
+}
+
+ul {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th,
+table,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 30px;
+    text-align: center;
+}
